@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Valery 👋
 
-<!--
-**valery-nguyen/valery-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Engineer located in San Francisco Bay Area 🏙
 
-Here are some ideas to get you started:
+- 🧑‍💻 I'm currently working at Google
+- 💻 I'm currently learning Go
+- 🚴🏾‍♀️ 🚴 I love to collaborate on complex projects
+- 💬 Ask me anything❗️
+- 😄 Pronouns: he/him
+- ⚡ Fun facts: I'm a boba🧋enthusiast, ping-pong 🏓 lover, and visit Paris 🇫🇷 every year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More about me **[here](https://www.valeryn.com/)**
+
+<a href="https://www.linkedin.com/in/valeryn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:valery.nguyen@ucla.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+
+## Check out some of my recent projects
+- **[somethingSpecial](https://www.somethingspecial.io/)**
+- **[CoolBnb](https://coolbnb.herokuapp.com/)**
+- **[LightChat](https://lightchat-app.herokuapp.com/)**
+- **[GameOfThrones-D3](https://gameofthrones-d3.herokuapp.com/)**
+
+✨ _Happy Coding!_ ✨ 
