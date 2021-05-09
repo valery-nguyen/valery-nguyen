@@ -20,7 +20,7 @@ More about me **[here](https://www.valeryn.com/)**
 - **[LightChat](https://lightchat-app.herokuapp.com/)**
 - **[GameOfThrones-D3](https://gameofthrones-d3.herokuapp.com/)**
 
-## Some things I know
+## And here are some of my skills
 
 **Languages**<br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
