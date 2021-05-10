@@ -59,5 +59,7 @@ More about me **[here](https://www.valeryn.com/)**
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse"/>
 
 <br/>
+
 ### ✨ _Happy Coding!_ ✨ 
+
 <br/><br/>
