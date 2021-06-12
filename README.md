@@ -4,7 +4,7 @@
 
 ### I'm a SWE located in San Francisco Bay Area 🏙
 
-- 🧑‍💻 I'm currently working at Google
+- 🧑‍💻 I'm currently working at Google 
 - 💻 I'm currently learning Go
 - 🚴🏾‍♀️ 🚴 I love to collaborate on complex projects
 - 💬 Ask me anything❗️
@@ -21,6 +21,12 @@ More about me **[here](https://www.valeryn.com/)**
 - **[CoolBnb](https://coolbnb.herokuapp.com/)**
 - **[LightChat](https://lightchat-app.herokuapp.com/)**
 - **[GameOfThrones-D3](https://gameofthrones-d3.herokuapp.com/)**
+
+## Some metrics
+
+![Valery's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valery-nguyen&layout=compact)
+
+![Valery's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valery-nguyen&show_icons=true&include_all_commits=true)
 
 ## And here are some of my skills
 
@@ -60,8 +66,7 @@ More about me **[here](https://www.valeryn.com/)**
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse"/>
 
-<br/>
 
-### ✨ _Happy Coding!_ ✨ 
+### ✨ Happy Coding! ✨ 
 
 <br/><br/>
