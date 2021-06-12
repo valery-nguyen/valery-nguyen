@@ -66,6 +66,7 @@ More about me **[here](https://www.valeryn.com/)**
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse"/>
 
+<br/>
 
 ### ✨ Happy Coding! ✨ 
 
