@@ -2,7 +2,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" />
 
-### I'm a Software Engineer located in San Francisco Bay Area 🏙
+### I'm a SWE located in San Francisco Bay Area 🏙
 
 - 🧑‍💻 I'm currently working at Google
 - 💻 I'm currently learning Go
