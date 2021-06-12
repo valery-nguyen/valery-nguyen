@@ -4,7 +4,7 @@
 
 ### I'm a SWE located in San Francisco Bay Area 🏙
 
-- 🧑‍💻 I'm currently working at Google 
+- 🧑‍💻 I work at Google
 - 💻 I'm currently learning Go
 - 🚴🏾‍♀️ 🚴 I love to collaborate on complex projects
 - 💬 Ask me anything❗️
