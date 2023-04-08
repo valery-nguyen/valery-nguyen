@@ -5,7 +5,7 @@
 ### I'm a SWE located in San Francisco Bay Area 🏙
 
 - 🧑‍💻 I work at Google
-- 💻 I'm currently learning Go
+- 💻 I'm currently using C++ and Go
 - 🚴🏾‍♀️ 🚴 I love to collaborate on complex projects
 - 💬 Ask me anything❗️
 - 😄 Pronouns: he/him
@@ -17,10 +17,10 @@ More about me **[here](https://www.valeryn.com/)**
 <a href="mailto:valery.nguyen@ucla.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 ## Check out some of my recent projects
-- **[somethingSpecial](https://www.somethingspecial.io/)**
-- **[CoolBnb](https://coolbnb.herokuapp.com/)**
-- **[LightChat](https://lightchat-app.herokuapp.com/)**
-- **[GameOfThrones-D3](https://gameofthrones-d3.herokuapp.com/)**
+- **[somethingSpecial](https://github.com/valery-nguyen/somethingSpecial)**
+- **[CoolBnb](https://github.com/valery-nguyen/coolbnb/)**
+- **[LightChat](https://github.com/valery-nguyen/lightchat/)**
+- **[GameOfThrones-D3](https://github.com/valery-nguyen/GameOfThrones-D3/)**
 
 ## Some metrics
 
@@ -31,8 +31,9 @@ More about me **[here](https://www.valeryn.com/)**
 ## And here are some of my skills
 
 **Languages**<br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="go"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="htlm5"/>
